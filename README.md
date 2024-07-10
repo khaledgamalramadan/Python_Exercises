@@ -12,5 +12,6 @@ Q3 You have the following variables   () word1 = "How" word2 = "do" word3 = "you
 Q4
  In Q3 Replace? With ! in variable word7 Use formatting to change language from python to any other programming language
 
- Q5 Write a Python program Ask user to input stamen and calculate the length of it .
+ Q5 Write a Python program Ask user to input stamen and calculate the length of it 
+ 
  Q6 Develop calculator using python (+,-,*,/)
